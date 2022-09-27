@@ -1,0 +1,73 @@
+<ContentPage x:Class="dragon.theme_menu"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="theme_menu">
+	<ContentPage.Content>
+		<ScrollView>
+            <AbsoluteLayout>
+
+
+                <AbsoluteLayout x:Name="page_theme_menu_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,360,760"
+				 >
+
+                        <BoxView x:Name="_bg__theme_menu_ek2"
+					Color="#ffffff"
+					AbsoluteLayout.LayoutBounds="0,0,360,760" />
+
+                        <Image x:Name="theme_"
+					Source="theme_.png"
+					AbsoluteLayout.LayoutBounds="-25,-26,463,895" />
+
+                        <Button x:Name="DragButt"
+                        Clicked="DragButt_Clicked"
+					    ImageSource="rectangle_22.png"
+                        CornerRadius="50"
+                        Grid.Row="0"
+					AbsoluteLayout.LayoutBounds="5,114,332,114" />
+
+                        <Button x:Name="UniButt"
+                        Clicked="UniButt_Clicked"
+					ImageSource="rectangle_27.png"
+                        CornerRadius="50"
+                   
+					AbsoluteLayout.LayoutBounds="14,238,332,114" />
+
+                        <Button x:Name="rectangle_28"
+					ImageSource="rectangle_28.png"
+                        CornerRadius="50"
+					AbsoluteLayout.LayoutBounds="5,366,332,114" />
+
+                        <Button  x:Name="rectangle_29"
+                         CornerRadius="50"
+					ImageSource="rectangle_29.png"
+					AbsoluteLayout.LayoutBounds="5,500,332,114" />
+
+                    <Button x:Name="rectangle_30"
+                        CornerRadius="50"
+					ImageSource="rectangle_30.png"
+					AbsoluteLayout.LayoutBounds="5,634,332,114" />
+                    
+                    <Label x:Name="themes"
+					FontFamily="Jokerman"
+					HorizontalTextAlignment="Center"
+					FontSize="60"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="-10,12,269,134"
+					Text="Themes" />
+
+
+                </AbsoluteLayout>
+
+
+
+
+            </AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>

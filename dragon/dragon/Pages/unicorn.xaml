@@ -1,0 +1,236 @@
+<ContentPage x:Class="dragon.unicorn"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="unicorn">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+
+
+
+
+			<AbsoluteLayout x:Name="page_unicorn_ek2"
+				 AbsoluteLayout.LayoutBounds="0,0,360,760"
+				 >
+
+				<BoxView x:Name="_bg__unicorn_ek3"
+					Color="#b5b9eb"
+					AbsoluteLayout.LayoutBounds="0,0,360,760" />
+				<Image x:Name="rectangle_27_ek1"
+					Source="rectangle_27_ek1.png"
+					AbsoluteLayout.LayoutBounds="-35,0,431,816" />
+				<Image x:Name="rectangle_2_ek3"
+					Source="rectangle_2_ek3.png"
+					AbsoluteLayout.LayoutBounds="0,275,360,81" />
+				<Image x:Name="rectangle_4_ek3"
+					Source="rectangle_4_ek3.png"
+					AbsoluteLayout.LayoutBounds="97,456,76,60" />
+				<Image x:Name="path_1_ek3"
+					Source="path_1_ek3.png"
+					AbsoluteLayout.LayoutBounds="0,456,81,60" />
+				<Image x:Name="rectangle_5_ek3"
+					Source="rectangle_5_ek3.png"
+					AbsoluteLayout.LayoutBounds="183,456,76,60" />
+				<Image x:Name="rectangle_7_ek3"
+					Source="rectangle_7_ek3.png"
+					AbsoluteLayout.LayoutBounds="0,537,76,60" />
+				<Image x:Name="rectangle_8_ek3"
+					Source="rectangle_8_ek3.png"
+					AbsoluteLayout.LayoutBounds="97,537,76,60" />
+				<Image x:Name="rectangle_9_ek3"
+					Source="rectangle_9_ek3.png"
+					AbsoluteLayout.LayoutBounds="183,537,76,60" />
+				<Image x:Name="rectangle_10_ek3"
+					Source="rectangle_10_ek3.png"
+					AbsoluteLayout.LayoutBounds="269,456,90,60" />
+				<Image x:Name="rectangle_12_ek3"
+					Source="rectangle_12_ek3.png"
+					AbsoluteLayout.LayoutBounds="97,611,76,60" />
+				<Image x:Name="rectangle_13_ek3"
+					Source="rectangle_13_ek3.png"
+					AbsoluteLayout.LayoutBounds="183,611,76,60" />
+				<Image x:Name="rectangle_14_ek3"
+					Source="rectangle_14_ek3.png"
+					AbsoluteLayout.LayoutBounds="269,537,90,60" />
+				<Image x:Name="rectangle_15_ek3"
+					Source="rectangle_15_ek3.png"
+					AbsoluteLayout.LayoutBounds="269,611,90,60" />
+				<Image x:Name="rectangle_16_ek3"
+					Source="rectangle_16_ek3.png"
+					AbsoluteLayout.LayoutBounds="0,375,257,60" />
+				<Label x:Name="_1_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="101,456,55,81"
+					Text="1"
+				 />
+				<Label x:Name="_0_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="11,456,55,81"
+					Text="0"
+				 />
+				<Label x:Name="clear_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="31,378,182,81"
+					Text="CLEAR"
+				 />
+				<Label x:Name="_3_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="11,541,55,81"
+					Text="3"
+				 />
+				<Label x:Name="_4_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="103,537,55,81"
+					Text="4"
+				 />
+				<Label x:Name="_5_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="189,537,55,81"
+					Text="5"
+				 />
+				<Label x:Name="_7_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="100,611,55,81"
+					Text="7"
+				 />
+				<Image x:Name="rectangle_18_ek3"
+					Source="rectangle_18_ek3.png"
+					AbsoluteLayout.LayoutBounds="0,611,81,60" />
+				<Label x:Name="_8_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="189,611,55,81"
+					Text="8"
+				 />
+				<Label x:Name="_6_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="11,613,55,81"
+					Text="6"
+				 />
+				<Label x:Name="___ek12"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="282,615,55,81"
+					Text="+"
+				 />
+				<Label x:Name="___ek13"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="282,538,55,81"
+					Text="/"
+				 />
+				<Label x:Name="x_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="279,460,55,81"
+					Text="X"
+				 />
+				<Label x:Name="_2_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="189,456,55,81"
+					Text="2"
+				 />
+				<Image x:Name="rectangle_20_ek3"
+					Source="rectangle_20_ek3.png"
+					AbsoluteLayout.LayoutBounds="269,375,90,56" />
+				<Image x:Name="book_ek3"
+					Source="book_ek3.png"
+					AbsoluteLayout.LayoutBounds="289,10,57,57" />
+				<Image x:Name="store_ek3"
+					Source="store_ek3.png"
+					AbsoluteLayout.LayoutBounds="17,10,62,62" />
+				<Image x:Name="delete__1__ek3"
+					Source="delete__1__ek3.png"
+					AbsoluteLayout.LayoutBounds="283,373,63,63" />
+				<Image x:Name="rectangle_6_ek3"
+					Source="rectangle_6_ek3.png"
+					AbsoluteLayout.LayoutBounds="269,692,90,60" />
+				<Image x:Name="rectangle_11_ek3"
+					Source="rectangle_11_ek3.png"
+					AbsoluteLayout.LayoutBounds="0,689,81,60" />
+				<Image x:Name="rectangle_17_ek3"
+					Source="rectangle_17_ek3.png"
+					AbsoluteLayout.LayoutBounds="99,692,160,60" />
+				<Label x:Name="_9_ek3"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="11,689,55,81"
+					Text="9"
+				 />
+				<Label x:Name="___ek14"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="143,692,55,81"
+					Text="="
+				 />
+				<Label x:Name="___ek15"
+					FontFamily="Segoe UI"
+					HorizontalTextAlignment="Center"
+					FontSize="40"
+					TextColor="#ffffff"
+					AbsoluteLayout.LayoutBounds="275,693,63,81"
+					Text="-"
+				 />
+
+				<AbsoluteLayout x:Name="component_1___1_ek3"
+					 AbsoluteLayout.LayoutBounds="54,43,235,232"
+					 >
+
+					<Image x:Name="unicorn_ek4"
+						Source="unicorn_ek4.png"
+						AbsoluteLayout.LayoutBounds="0,0,235,232" />
+				</AbsoluteLayout>
+
+			</AbsoluteLayout>
+
+
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>

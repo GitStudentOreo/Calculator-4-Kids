@@ -1,0 +1,47 @@
+<ContentPage x:Class="dragon.history_tab"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="history_tab">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
+
+
+
+
+			<AbsoluteLayout x:Name="page_history_tab_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,360,760"
+				 >
+
+				<BoxView x:Name="_bg__history_tab_ek2"
+					Color="#9cb2b9"
+					AbsoluteLayout.LayoutBounds="0,0,360,760" />
+				<BoxView x:Name="rectangle_31"
+					CornerRadius="18"
+					Color="#000000"
+					AbsoluteLayout.LayoutBounds="19,150,324,570" />
+				<Image x:Name="calculator_ek1"
+					Source="calculator_ek1.png"
+					AbsoluteLayout.LayoutBounds="260,42,81,81" />
+				<Label x:Name="history"
+					FontFamily="Jokerman"
+					HorizontalTextAlignment="Center"
+					FontSize="60"
+					TextColor="#000000"
+					AbsoluteLayout.LayoutBounds="-30,40,297,125"
+					Text="History"
+				 />
+			</AbsoluteLayout>
+
+
+
+
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
+</ContentPage>
