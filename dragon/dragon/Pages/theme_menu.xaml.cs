@@ -25,19 +25,25 @@ namespace dragon
             await Navigation.PushAsync(new TheDragon());
         }
 
-        private void DragButt_Clicked_1(object sender, EventArgs e)
-        {
 
+        private async void UniButt_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new unicorn());
         }
 
-        private void UniButt_Clicked(object sender, EventArgs e)
+        private async void TouButt_Clicked(object sender, EventArgs e)
         {
-
+            await Navigation.PushAsync(new toucan());
         }
 
-        private void calculator_Clicked(object sender, EventArgs e)
+        private async void PanButt_Clicked(object sender, EventArgs e)
         {
+            await Navigation.PushAsync(new panda());
+        }
 
+        private async void MonkButt_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new monkey());
         }
     }
 }

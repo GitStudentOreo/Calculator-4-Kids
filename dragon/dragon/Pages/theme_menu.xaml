@@ -36,17 +36,20 @@
                    
 					AbsoluteLayout.LayoutBounds="14,238,332,114" />
 
-                        <Button x:Name="rectangle_28"
+                        <Button x:Name="TouButt"
+                                Clicked="TouButt_Clicked"
 					ImageSource="rectangle_28.png"
                         CornerRadius="50"
 					AbsoluteLayout.LayoutBounds="5,366,332,114" />
 
-                        <Button  x:Name="rectangle_29"
+                        <Button  x:Name="PanButt"
+                                 Clicked="PanButt_Clicked"
                          CornerRadius="50"
 					ImageSource="rectangle_29.png"
 					AbsoluteLayout.LayoutBounds="5,500,332,114" />
 
-                    <Button x:Name="rectangle_30"
+                    <Button x:Name="MonkButt"
+                            Clicked="MonkButt_Clicked"
                         CornerRadius="50"
 					ImageSource="rectangle_30.png"
 					AbsoluteLayout.LayoutBounds="5,634,332,114" />

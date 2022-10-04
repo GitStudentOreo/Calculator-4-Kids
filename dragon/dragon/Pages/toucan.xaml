@@ -19,202 +19,150 @@
 				<BoxView x:Name="_bg__toucan_ek3"
 					Color="#b5b9eb"
 					AbsoluteLayout.LayoutBounds="0,0,360,760" />
+                
 				<Image x:Name="rectangle_28_ek1"
 					Source="rectangle_28_ek1.png"
 					AbsoluteLayout.LayoutBounds="-23,-27,407,820" />
-				<Image x:Name="rectangle_2_ek1"
-					Source="rectangle_2_ek1.png"
-					AbsoluteLayout.LayoutBounds="-7,205,376,171" />
-				<Image x:Name="rectangle_4_ek1"
-					Source="rectangle_4_ek1.png"
-					AbsoluteLayout.LayoutBounds="90,458,94,78" />
-				<Image x:Name="path_1_ek1"
-					Source="path_1_ek1.png"
-					AbsoluteLayout.LayoutBounds="-7,458,99,78" />
-				<Image x:Name="rectangle_5_ek1"
-					Source="rectangle_5_ek1.png"
-					AbsoluteLayout.LayoutBounds="174,458,94,78" />
-				<Image x:Name="rectangle_7_ek1"
-					Source="rectangle_7_ek1.png"
-					AbsoluteLayout.LayoutBounds="-7,539,94,78" />
-				<Image x:Name="rectangle_8_ek1"
-					Source="rectangle_8_ek1.png"
-					AbsoluteLayout.LayoutBounds="90,539,94,78" />
-				<Image x:Name="rectangle_9_ek1"
-					Source="rectangle_9_ek1.png"
-					AbsoluteLayout.LayoutBounds="174,539,94,78" />
-				<Image x:Name="rectangle_10_ek1"
-					Source="rectangle_10_ek1.png"
-					AbsoluteLayout.LayoutBounds="260,458,108,78" />
-				<Image x:Name="rectangle_12_ek1"
-					Source="rectangle_12_ek1.png"
-					AbsoluteLayout.LayoutBounds="90,613,94,78" />
-				<Image x:Name="rectangle_13_ek1"
-					Source="rectangle_13_ek1.png"
-					AbsoluteLayout.LayoutBounds="174,613,94,78" />
-				<Image x:Name="rectangle_14_ek1"
-					Source="rectangle_14_ek1.png"
-					AbsoluteLayout.LayoutBounds="260,539,108,78" />
-				<Image x:Name="rectangle_15_ek1"
-					Source="rectangle_15_ek1.png"
-					AbsoluteLayout.LayoutBounds="260,613,108,78" />
-				<Image x:Name="rectangle_16_ek1"
-					Source="rectangle_16_ek1.png"
-					AbsoluteLayout.LayoutBounds="-7,377,275,78" />
-				<Label x:Name="_1_ek1"
-					FontFamily="Nirmala UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="103,464,55,81"
-					Text="1"
-				 />
-				<Label x:Name="_0_ek1"
-					FontFamily="Nirmala UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="13,464,55,81"
-					Text="0"
-				 />
-				<Label x:Name="clear_ek1"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="33,386,182,81"
-					Text="CLEAR"
-				 />
-				<Label x:Name="_3_ek1"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="13,549,55,81"
-					Text="3"
-				 />
-				<Label x:Name="_4_ek1"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="105,545,55,81"
-					Text="4"
-				 />
-				<Label x:Name="_5_ek1"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="189,545,55,81"
-					Text="5"
-				 />
-				<Label x:Name="_7_ek1"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="102,619,55,81"
-					Text="7"
-				 />
-				<Image x:Name="rectangle_18_ek1"
-					Source="rectangle_18_ek1.png"
-					AbsoluteLayout.LayoutBounds="-7,613,99,78" />
-				<Label x:Name="_8_ek1"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="189,619,55,81"
-					Text="8"
-				 />
-				<Label x:Name="_6_ek1"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="13,621,55,81"
-					Text="6"
-				 />
-				<Label x:Name="___ek4"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="282,623,55,81"
-					Text="+"
-				 />
-				<Label x:Name="___ek5"
-					FontFamily="Nirmala UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="282,546,55,81"
-					Text="/"
-				 />
-				<Label x:Name="x_ek1"
-					FontFamily="Nirmala UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="279,468,55,81"
-					Text="X"
-				 />
-				<Label x:Name="_2_ek1"
-					FontFamily="Nirmala UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="189,464,55,81"
-					Text="2"
-				 />
-				<Image x:Name="rectangle_20_ek1"
-					Source="rectangle_20_ek1.png"
-					AbsoluteLayout.LayoutBounds="260,377,108,74" />
-				<Image x:Name="book_ek1"
-					Source="book_ek1.png"
-					AbsoluteLayout.LayoutBounds="289,10,57,57" />
-				<Image x:Name="store_ek1"
-					Source="store_ek1.png"
-					AbsoluteLayout.LayoutBounds="17,10,62,62" />
-				<Image x:Name="delete__1__ek1"
-					Source="delete__1__ek1.png"
-					AbsoluteLayout.LayoutBounds="283,381,63,63" />
-				<Image x:Name="rectangle_6_ek1"
-					Source="rectangle_6_ek1.png"
-					AbsoluteLayout.LayoutBounds="260,694,108,78" />
-				<Image x:Name="rectangle_11_ek1"
-					Source="rectangle_11_ek1.png"
-					AbsoluteLayout.LayoutBounds="-7,691,99,78" />
-				<Image x:Name="rectangle_17_ek1"
-					Source="rectangle_17_ek1.png"
-					AbsoluteLayout.LayoutBounds="90,694,178,78" />
-				<Label x:Name="_9_ek1"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="13,697,55,81"
-					Text="9"
-				 />
-				<Label x:Name="___ek6"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="143,700,55,81"
-					Text="="
-				 />
-				<Label x:Name="___ek7"
-					FontFamily="Segoe UI"
-					HorizontalTextAlignment="Center"
-					FontSize="40"
-					TextColor="#e9dcdc"
-					AbsoluteLayout.LayoutBounds="275,701,63,81"
-					Text="-"
-				 />
+                
+                    <Label x:Name="Main_number_add"
+                           FontSize="40"
+                           TextColor="AntiqueWhite"
+					AbsoluteLayout.LayoutBounds="50,270,350,70" />
 
-				<AbsoluteLayout x:Name="component_1___1_ek1"
+                    <Button x:Name="one"
+					ImageSource="M1.png"
+                                 BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="90,448,94,78" />
+
+                    <Button x:Name="zero"
+					ImageSource="M0.png"
+                             BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="-9,448,99,78" />
+
+                    <Button x:Name="two"
+					ImageSource="M2.png"
+                             BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="174,448,94,78" />
+
+                    <Button x:Name="three"
+					ImageSource="M3.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="-9,533,94,78" />
+
+                    <Button x:Name="four"
+					ImageSource="M4.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="90,533,94,78" />
+
+                    <Button x:Name="five"
+					ImageSource="M5.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="174,533,94,78" />
+
+                    <Button x:Name="x"
+					ImageSource="MX.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="262,448,108,78" />
+
+                    <Button x:Name="seven"
+					ImageSource="M7.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="90,610,94,78" />
+
+                    <Button x:Name="eight"
+					ImageSource="M8.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="174,610,94,78" />
+
+                    <Button x:Name="Div"
+					ImageSource="MDiv.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="262,533,108,78" />
+
+                    <Button x:Name="plus"
+					ImageSource="MPlus.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="262,610,108,78" />
+
+                    <Button x:Name="Clear"
+					ImageSource="MClear.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="-9,364,275,78" />
+
+                    <Button x:Name="six"
+					ImageSource="M6.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="-9,610,99,78" />
+
+                    <Button x:Name="Back"
+					ImageSource="MBack.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="back_clicked"
+					AbsoluteLayout.LayoutBounds="262,364,108,74" />
+
+                    <Button x:Name="book"
+					ImageSource="_book.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="book_Clicked"
+					AbsoluteLayout.LayoutBounds="291,10,57,57" />
+
+                    <Button x:Name="store"
+					ImageSource="_store.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="store_Clicked"
+					AbsoluteLayout.LayoutBounds="17,10,62,62" />
+
+                    <Button x:Name="sub"
+					ImageSource="MMin.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="271,700,90,60" />
+
+                    <Button x:Name="nine"
+					ImageSource="M9.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="-9,691,99,78" />
+
+                    <Button x:Name="Equal"
+					ImageSource="MEql.png"
+                                   BorderColor="Transparent"
+                                 BackgroundColor="Transparent"
+                            Clicked="Button_Clicked"
+					AbsoluteLayout.LayoutBounds="90,694,178,78" />
+
+                    <AbsoluteLayout x:Name="component_1___1_ek1"
 					 AbsoluteLayout.LayoutBounds="25,47,321,241"
 					 >
 
